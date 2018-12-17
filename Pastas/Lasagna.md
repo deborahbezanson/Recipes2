@@ -14,7 +14,7 @@ From https://en.wikibooks.org/wiki/Cookbook:Traditional_Lasagne
 * 1/2 tsp sugar
 * (Optionally) 150-200 ml red wine
 * One package lasagna noodles sheet
-* 1.5 pints (850 ml) béchamel sauce
+* 2 pints (850 ml) béchamel sauce
 * Finely grated parmesan
 
 **Equipment**
